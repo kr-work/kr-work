@@ -26,8 +26,8 @@
 🚀 **Flutter Developer** passionate about mobile development  
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
+💼 **Focus:** Embedded system, server
+☕ **Powered by:** Coffee and Monster
 🎯 **Goal:** Creating amazing user experiences  
 
 </td>
@@ -52,14 +52,12 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 ### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=python,rust" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -67,11 +65,9 @@
 ### 🗄️  **Database**
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,css" />
 
 </td>
 </tr>
