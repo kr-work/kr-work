@@ -24,10 +24,11 @@
 
 ### 👋 **Hi, I'm User!**
 🚀 **Flutter Developer** passionate about mobile development  
-
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Embedded system, server
-☕ **Powered by:** Coffee and Monster
+💼 **Focus:** Embedded system and Server
+
+☕ **Powered by:** Coffee and Monster Energy
+
 🎯 **Goal:** Creating amazing user experiences  
 
 </td>
