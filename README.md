@@ -23,7 +23,6 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Embedded system and Server
 
